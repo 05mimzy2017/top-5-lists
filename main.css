@@ -1,0 +1,22 @@
+body {
+      Background-color: #e8fffc;
+}
+
+h1{
+   color: #4604d6;;
+   text-align: center;
+   font-size: 64px;
+   font-family: 'Lobster', cursive;
+}
+
+h2{
+   color: #4604d6;
+   font-size: 32px;
+   font-family:'Lobster', cursive;
+}
+
+li{
+   color: #a65fc6;
+   font-size: 32px;
+   font-family: 'Cookie', cursive; 
+}
